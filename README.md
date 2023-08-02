@@ -18,4 +18,4 @@ cdk bootstrap
 cdk synth  
 cdk diff  
 cdk deploy  
-
+pip install --upgrade -r requirements.txt
